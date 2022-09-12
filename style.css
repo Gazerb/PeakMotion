@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+.nav-background {
+    background-color: #7AE9F0;
+}
+
+.nav-link{
+    color: black;
+    text-transform: uppercase;
+    font-weight:Bold;
+}
+
+.logo{
+    float: left;
+    font-size: 120%;
+    margin-left:30px;
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    text-decoration: underlined;
+}
+
+.footer-background{
+    background-color: #04C6D3;
+}
+
+.copyright {
+    float:inline;
+    text-decoration: none;
+    color: black;
+}
