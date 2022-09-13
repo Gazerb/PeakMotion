@@ -38,6 +38,10 @@
     Padding-top: 50px;
 }
 
+p {
+  padding: 30px;
+}
+
 .column {
     float: left;
     width: 33.33%;
@@ -64,9 +68,4 @@
     margin-right: auto;
     width: 400px;
     height: 300px;
-  }
-
-  .video {
-    Width: 250px;
-    height: 200px;
   }
