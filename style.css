@@ -48,11 +48,11 @@ p {
     padding: 5px;
   }
 
-  .column h3 {
+  .row h3 {
     text-align: center;
   }
 
-  .column p {
+  .row p {
     font-size: 150%;
     text-align: center;
   }
