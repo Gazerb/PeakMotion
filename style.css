@@ -69,3 +69,16 @@ p {
     width: 400px;
     height: 300px;
   }
+
+.address-background {
+  background-color: aquamarine;
+  padding-top: 20px;
+}
+
+.btn-primary {
+  background-color: #04C6D3;
+}
+
+.contact-form {
+  padding-bottom: 20px;
+}
