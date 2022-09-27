@@ -41,9 +41,6 @@
   height:400px;
   width: 100%;
   background: url("/assets/images/hero-image.jpg") no-repeat center center;
-  animation-name: hero-zoom;
-  animation-duration: 5s;
-  animation-fill-mode: forwards;
 }
 
 /* -----------------Footer---------------------*/
@@ -128,8 +125,4 @@ p {
 
 .text-c {
   text-align: center;
-}
-
-.rounded {
-  font-size: 120%;
 }
