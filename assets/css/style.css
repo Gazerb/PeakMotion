@@ -28,11 +28,6 @@
     background-color: #04C6D3;
 }
 
-
-.navbar-collapse.in {
-  display: block !important;
-}
-
 .footer-background{
     background-color: #04C6D3;
 }
@@ -86,4 +81,16 @@ p {
 
 .address-text {
   text-align: left;
+}
+
+.submit {
+  padding-bottom: 40px;
+}
+
+.padding-left {
+  padding-left: 15px;
+}
+
+.padding-right {
+  padding-right: 15px;
 }
