@@ -28,6 +28,11 @@
     background-color: #04C6D3;
 }
 
+
+.navbar-collapse.in {
+  display: block !important;
+}
+
 .footer-background{
     background-color: #04C6D3;
 }

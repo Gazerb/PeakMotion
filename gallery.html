@@ -1,31 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=>, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/a04ed0f7dc.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/style.css">
   </head>
     <title>PeakMotion</title>
 </head>
 <body>
     <header>
-        <nav class="nav-background">
-                <a class="logo" href="index.html">PeakMotion <i class="fa-solid fa-dumbbell"></i></a>
-        <ul class="nav justify-content-end">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="gallery.html">Gallery</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact Us</a>
-            </li>
-          </ul>
-        </nav>
+      <!-- navbar copied from Boostrap and edited -->
+      <nav class="navbar navbar-expand-lg nav-background navbar-right">
+        <a class="navbar-brand navbar-text" href="index.html">PeakMotion <i class="fa-solid fa-dumbbell"></i></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse navbar-text" id="navbarNav">
+            <ul class="navbar-nav ml-auto justify-content-end">
+                <li class="nav-item text-right nav-text">
+                    <a class="nav-link active" href="index.html">Home</a>
+                </li>
+                <li class="nav-item text-right nav-text">
+                    <a class="nav-link" href="gym.html">gym</a>
+                </li>
+                <li class="nav-item text-right nav-text">
+                    <a class="nav-link" href="fitness-class.html">fitness classes</a>
+                </li>
+                <li class="nav-item text-right nav-text">
+                    <a class="nav-link" href="pool.html">pool</a>
+                </li>
+                <li class="nav-item text-right nav-text">
+                    <a class="nav-link" href="contact.html">contact us</a>
+                </li>
+                <li class="nav-item nav-text">
+                    <a class="nav-link" href="gallery.html">gallery</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
     </header>
     <section>
       <div>
