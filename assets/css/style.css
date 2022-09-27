@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
 
-/* Navbar */
+/*-------------------- Navbar ---------------------- */
 
 .navbar {
   width:100%;
@@ -21,13 +21,14 @@
 }
 
 .nav-item a:hover{
-    background-color: orangered;
+    background-color: royalblue;
 }
 
 .active {
     background-color: #04C6D3;
 }
 
+/* -----------------Footer---------------------*/
 .footer-background{
     background-color: #04C6D3;
 }
@@ -38,6 +39,11 @@
     Padding-top: 50px;
 }
 
+.address-text {
+  text-align: left;
+}
+
+/* ----------------- Rows & Colums -------------------*/
 p {
   padding: 30px;
 }
@@ -70,27 +76,23 @@ p {
     height: 300px;
   }
 
-.address-background {
-  background-color: aquamarine;
-  padding-top: 20px;
-}
-
-.btn-primary {
-  background-color: #04C6D3;
-}
-
-.address-text {
-  text-align: left;
-}
-
-.submit {
-  padding-bottom: 40px;
-}
-
 .padding-left {
   padding-left: 15px;
 }
 
 .padding-right {
   padding-right: 15px;
+}
+
+/*--------------------- Submit Button -----------------*/
+.btn {
+  color:black;
+}
+
+.btn-primary {
+  background-color: #04C6D3;
+}
+
+.submit {
+  padding-bottom: 40px;
 }
