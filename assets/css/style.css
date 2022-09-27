@@ -28,6 +28,24 @@
     background-color: #04C6D3;
 }
 
+/*------------------ Hero Image ---------------*/
+
+#hero-outer{
+  height:400px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#hero-image{
+  height:400px;
+  width: 100%;
+  background: url("/assets/images/hero-image.jpg") no-repeat center center;
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+}
+
 /* -----------------Footer---------------------*/
 .footer-background{
     background-color: #04C6D3;
@@ -102,4 +120,8 @@ p {
   margin-right: auto;
   width: 400px;
   height: 400px;
+}
+
+.text-c {
+  text-align: center;
 }
