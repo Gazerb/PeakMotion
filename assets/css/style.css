@@ -129,3 +129,7 @@ p {
 .text-c {
   text-align: center;
 }
+
+.rounded {
+  font-size: 120%;
+}
