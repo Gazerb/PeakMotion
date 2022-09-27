@@ -41,12 +41,10 @@
 
 .address-text {
   text-align: left;
+  padding-left: 20px;
 }
 
 /* ----------------- Rows & Colums -------------------*/
-p {
-  padding: 30px;
-}
 
 .column {
     float: left;
@@ -63,18 +61,10 @@ p {
     text-align: center;
   }
 
+  /* ------------------------- Padding -----------------*/
 .row {
-    Padding:30px;
-    padding-bottom: 50px;
-  }
-
-.img-thumbnail {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px;
-    height: 300px;
-  }
+    padding-top: 30px;
+}
 
 .padding-left {
   padding-left: 15px;
@@ -82,6 +72,14 @@ p {
 
 .padding-right {
   padding-right: 15px;
+}
+
+.padding-bottom {
+  padding-bottom:100px;
+}
+
+p {
+  padding: 30px;
 }
 
 /*--------------------- Submit Button -----------------*/
@@ -95,4 +93,13 @@ p {
 
 .submit {
   padding-bottom: 40px;
+}
+
+/* ------------------- Images ------------------*/
+.img-thumbnail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 300px;
 }
