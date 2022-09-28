@@ -50,12 +50,6 @@
     background-color: #04C6D3;
 }
 
-.title {
-    Text-align: center;
-    Padding-bottom: 15px;
-    Padding-top: 50px;
-}
-
 .address-text {
   text-align: left;
   padding-left: 20px;
@@ -128,4 +122,10 @@ p {
 /*--------------------- General text styles ---------------*/
 .text-c {
   text-align: center;
+}
+
+.title {
+  Text-align: center;
+  Padding-bottom: 15px;
+  Padding-top: 50px;
 }
