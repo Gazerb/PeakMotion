@@ -11,6 +11,8 @@
 
 .navbar-brand {
   color: black;
+  margin:20px;
+  font: 1em sans-serif;
 }
 
 .nav-text{
@@ -123,6 +125,7 @@ p {
   height: 400px;
 }
 
+/*--------------------- General text styles ---------------*/
 .text-c {
   text-align: center;
 }
