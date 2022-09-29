@@ -93,6 +93,10 @@
   padding-bottom:100px;
 }
 
+.padding-bottom-small {
+  padding-bottom:50px;
+}
+
 p {
   padding: 30px;
 }
@@ -116,7 +120,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 400px;
-  height: 400px;
+  height: 300px;
 }
 
 /*--------------------- General text styles ---------------*/
@@ -128,4 +132,13 @@ p {
   Text-align: center;
   Padding-bottom: 15px;
   Padding-top: 50px;
+}
+
+.contact-form {
+  background-color: #9bedff;
+}
+
+.form-margin {
+  margin-left: auto;
+  margin-right: auto;
 }
