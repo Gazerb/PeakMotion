@@ -4,12 +4,14 @@ body {
   max-width: 100%;
   margin:0%;
   overflow-x: hidden;
+  font: roberto;
 }
 
 /*-------------------- Navbar ---------------------- */
 
 .navbar {
   width:100%;
+  font: montserrat;
 }
 .nav-background {
     background-color: #7AE9F0;
@@ -18,7 +20,7 @@ body {
 .navbar-brand {
   color: black;
   margin:20px;
-  font: 1em sans-serif;
+  font: 1em montserrat;
 }
 
 .nav-text{
@@ -29,7 +31,7 @@ body {
 }
 
 .nav-item a:hover{
-    background-color: royalblue;
+    background-color: #0420D4;
 }
 
 .active {

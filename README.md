@@ -4,6 +4,164 @@
 
 <img src="documentation/readme-images/am-i-responsive-photo.PNG" height="auto" width="100%" alt="Image of index.html on mulitple devices to show responsiveness" />
 
+<sub>*Created using* [Am I Responsive](http://ami.responsivedesign.is/)</sub>
+
+PeakMotion is a fake gym. This is my first milestone project for the full stack development course at Code Institute / City of Bristol College. For this project I had to create a static and responsive wesite that had a minimum of three pages using HTML 5 and CSS.
+
+Click <a href="https://gazerb.github.io/PeakMotion/">here</a> to view the live website.
+
+## User Experince 
+In this section, I will be providing information on the UX process. Focusing on who the PeakMotion website is for, the main aims of this project and how the website helps to meet the users needs
+
+The Project Goals:
+<ul>
+    <li>To provide users with information on the facilities at the sports center</li>
+    <li>To encourage users to visit and use the sports center</li>
+    <li>Help those who wish to contact PeakMotion</li>
+    <li>Provide users with information on facilities available, location of the sports center and opening hours</li>
+    <li>To create an appealing website that is fully responsive on all devices</li>
+</ul>
+
+## User stories
+
+A new gym user:
+<ul>
+    <li>I need to find out the location of the sports center</li>
+    <li>I need to know the opening times of the sports center</li>
+    <li>I need to know what facilities are available</li>
+</ul>
+
+If i decide to use the sports center i need to:
+<ul>
+    <li>Be able to contact the sports center</li>
+    <li>Be able to find out the costs of each facilities</li>
+</ul>
+
+Returning user:
+
+Current user:
+<ul>
+    <li>I want to be able to view opening hours</li>
+    <li>I want to be able to contact the gym and make an equiry</li>
+</ul>
+
+Former User:
+<ul>
+    <li>View opening times</li>
+    <li>See what facilities are on offer</li>
+    <li>Contact the sports center and make and equiry</li>
+</ul>
+
+
+Buisness Owner:
+<ul>
+    <li>To encourage more people to use the facilities</li>
+    <li>Clearly display information about the sports center</li>
+    <li>Visitors to the site are able to contact the buisness</li>
+    <li>Encourage visitors to follow our social pages</li>
+</ul>
+
+
+## User Centered Design
+### 1. Strategy Plane
+The User Centered Design process started with the creation fo the user stories and these influenced the design and layout of the product.
+
+
+### 2. Scope Plane
+<ul>
+    <li>Find out information about the sports center's</li>
+    <ul>
+        <li>Location</li>
+        <li>Opening times</li>
+        <li>Facilities</li>
+    </ul>
+    <li>Contact the sports center with a question</li>
+    <li>Visit the sports center social media pages</li>
+</ul>
+
+
+### 3. Structure Plane
+After idenifying the needs of the users and visiting other local sports center websites the below features were chosen for the website:
+<ul>
+    <li>Table showing opening times</li>
+    <li>Sports center address</li>
+    <li>Sports center contact number</li>
+    <li>Contact us form</li>
+    <li>Hero image for home page</li>
+    <li>Gym Logo</li>
+    <li>Gym facility page</li>
+    <li>Pool facility page</li>
+    <li>Fitness classes page</li>
+</ul>
+
+
+### 4. Skeleton Page
+To create the wireframes for the product I used <a href="https://www.figma.com/>">Figma</a>. They were created to appear as they would on a desktop, table and mobile.
+
+We have a header containing the logo and nav bar.
+
+To help the website with responsiveness of devices it was decided that when viewed on a tablet or mobile that the nav bar would be in a drop down hamberger menu.
+
+A footer is also included which contains the opening hours, address, contact number and socail media links.
+
+#### Wireframes
+
+Desktop:
+<ul>
+    <li>Link to Home page</li>
+    <li>Link to gym page</li>
+    <li>Link to pool page</li>
+    <li>Link to fitness classes page</li>
+    <li>Link to gallery page</li>
+    <li>Link to Contact us page</li>
+</ul>
+
+
+Tablet:
+<ul>
+    <li>Link to Home page</li>
+    <li>Link to gym page</li>
+    <li>Link to pool page</li>
+    <li>Link to fitness classes page</li>
+    <li>Link to gallery page</li>
+    <li>Link to Contact us page</li>
+</ul>
+
+
+Mobile:
+<ul>
+    <li>Link to Home page</li>
+    <li>Link to gym page</li>
+    <li>Link to pool page</li>
+    <li>Link to fitness classes page</li>
+    <li>Link to gallery page</li>
+    <li>Link to Contact us page</li>
+</ul>
+
+
+### 5. Surface Plane
+#### Design
+Due to the modern society of users now looking for information on mobile phones and tablet this was created with a mobile-first approach.
+
+#### Colour Scheme
+The colour scheme was chosen to be simple, clean, bright and visually appealing. Blue is thr traditional colour associated with sports centers with swimming pools so this was chosen along eith white as this is a clean color. Black was chosen for the text and related icons
+<img src="documentation/readme-images/peakmotion-colour-palette.png" height="auto" width="100%" alt="Image of colour palette showing colours used in website" />
+
+<sub>*Colour palette created at* [coolors.co](https://coolors.co/7ae9f0-04c6d3-fafafa-0420d4-000000).</sub>
+
+<ul>
+    <li>#7AE9F0 / Electric Blue. A nice bright color chosen for the navigation bar</li>
+    <li>#04D6C3 / Dark Turquoise. A darker shade of blue chosen for the footer. It was also chosen to highlight the active page the user is on</li>
+    <li>#0420D4 / Medum Blue. Chosen for the social icons in the footer to make them stand out. It is also the colour that shows when you hover over a page in the navigation bar</li>
+</ul>
+
+#### Icons
+Icons were used alongside teat to help the user understand sections of the website at a glance. I have taken the icons used in this project from Font Awesome (https://fontawesome.com/).
+
+#### Typography
+
+
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
