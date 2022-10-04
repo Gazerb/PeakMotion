@@ -258,6 +258,51 @@ After changing the images the new light house report showed an increase to 78.
 
 
 ### W3C HTML Validator
+From first running the HTML validator it came up with errors of div elements not being closed. closing <a> that wasn't required.
+
+The required changes have been made and there are now no HTML validator errors accross the website.
+
+### W3C CSS Validator
+No error where found in the CSS code when that went through the validator so nothing was changed there.
+
+
+## Manual Testing
+The website was tested on the following browsers:
+<ul>
+    <li>Google Chrome - Version 106.0.5249.91</li>
+    <li>Safari on iPhone</li>
+    <li>Opera - Version 90.0.4480.80</li>
+    <li>Microsoft Edge - Version 105.0.1343.53</li>
+    <li>Firefox - Version 105.01</li>
+</ul>
+
+All browsers where tested fully and the website behaved as expected on them
+
+
+## Device & responsiveness testing
+The below devices where tested to see how the website behaved on them and their responsiveness using Google Developer Chrome tools.
+
+<ul>
+    <li>iPhone SE</li>
+    <li>iPhone Xr</li>
+    <li>iPhone12 Pro</li>
+    <li>Pixel 5</li>
+    <li>Samsung S20 Ultra</li>
+    <li>iPad Air</li>
+    <li>iPad Mini</li>
+    <li>Surface Pro 7</li>
+</ul>
+
+It was also tested on the below laptop and desktop sizes:
+
+<ul>
+    <li>15" Laptop (1024 x 800)</li>
+    <li>22" Desktop (1680 x 1050)</li>
+    <li>24" Desktop (1920 x 1200)</li>
+</ul>
+
+### Tested User Stories
+Below I will discuss how the project met the requirements of the user stories from earlier.
 
 
 ## Gitpod Reminders
