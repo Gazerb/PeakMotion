@@ -162,6 +162,93 @@ Icons were used alongside teat to help the user understand sections of the websi
 After some research, I found that the 4th most common font used on gym and sports websites is Monserrat. I decided to go with the 4th most used as i wanted this website to be similar but also slightly different, This font was used for the logo and navigation bar. Google fonts recommended Roberto as a secondary font so this was used for the body of the website.
 
 
+## Development
+During a mentor session it was advised to me that when in tablet mode I should have a drop down hamberger menu similar to when in mobile mode. This will help the website with responsiveness and look more professional. 
+
+I was also advised during the same session to change the layout to only show two images per row. This would mean the the responsiveness of the website would be better and the images would not appear stretched or pixelated.
+
+
+### Site Map
+<img src="documentation/readme-images/site-map.PNG" height="auto" width="100%" alt="Image of websites site map." />
+
+
+## Features
+### Consistent features on all pages
+<ul>
+    <li>Title, displaying on the webpages tab is the title of the website</li>
+    <li>Header, contains the same company logo and navigation bar</li>
+    <li>Footer, Contains company address, contact number, email, opening times and social links</li>
+</ul>
+
+### Features per page
+Index:
+<ul>
+    <li>Hero Image - to improve the look of the website</li>
+    <li>Images of the gym, pool and fitness classes with links to relevant pages</li>
+</ul>
+
+Gym.html:
+<ul>
+    <li>Images of the gym facility</li>
+</ul>
+
+Pool.html:
+<ul>
+    <li>Images of the pool facility</li>
+</ul>
+
+Fitness-classes.html:
+<ul>
+    <li>Images of different taking place in our facility</li>
+</ul>
+
+Gallery.html:
+<ul>
+    <li>3 sections containing images of the gym, pool and fitness classes</li>
+    <li>Video of a fitness class taking place</li>
+</ul>
+
+Contact-us.html:
+<ul>
+    <li>Full screen contact form to get in touch with any quieries.</li>
+</ul>
+
+
+## Future Features
+<ul>
+    <li>Online membership sign up with payment option</li>
+    <li>Online class timetable</li>
+    <li>To be able to book a class online through membership</li>
+    <li>Online facility reviews</li>
+</ul>
+
+
+## Technologies used
+The below languages were used in this project:
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript - Imported from Bootstrap and used for the hamberger menu</li>
+</ul>
+
+## websites used
+<ul>
+    <li>Am I Responsive (http://ami.responsivedesign.is/). This was used to create the mock up image at the top of this readme document</li>
+    <li>Bootstrap (https://getbootstrap.com/). Used for website layout, responsiveness and hamberger menu</li>
+    <li>Code Institute (https://codeinstitute.net/). Modules and walk-through projects have been used and copied in this project</li>
+    <li>Coolors (https://coolors.co/7ae9f0-04c6d3-fafafa-0420d4-000000). Used to create website colour scheme and palette</li>
+    <li>Font Awesome (https://fontawesome.com/). Used for icons within website</li>
+    <li>Chrome Developer tools. Used to test website for buys and responsiveness</li>
+    <li>Google Fonts. Used to incorporate fonts in website</li>
+    <li>Github. Used for site respository and to deplay website</li>
+    <li>Gitpod. Online developer tool used to build and develop this project</li>
+    <li>Pexels.com. Used to collect images for this project</li>
+    <li>W3C CSS Validation. Used to validate projects CSS code</li>
+    <li>W3C HTML Validation. Used ti validate projects html pages / code</li>
+    <li>Figma. Used to create websites wireframes</li>
+</ul>
+
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
