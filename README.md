@@ -108,34 +108,34 @@ A footer is also included which contains the opening hours, address, contact num
 
 Desktop:
 <ul>
-    <li><a href="documentation/wireframe/Desktop-Home-Page.png">Home</a></li>
-    <li>Link to gym page</li>
-    <li>Link to pool page</li>
-    <li>Link to fitness classes page</li>
-    <li>Link to gallery page</li>
-    <li>Link to Contact us page</li>
+    <li><a href="documentation/wireframe/Desktop-Home-Page.png">Home Page</a></li>
+    <li><a href="documentation/wireframe/Desktop-Gym-Facilities.png">Gym Page</a></li>
+    <li><a href="documentation/wireframe/Desktop-Pool-Facilities.png">Pool Page</a></li>
+    <li><a href="documentation/wireframe/Desktop-Fitness-classes-Page.png">Fitness classes Page</a></li>
+    <li><a href="documentation/wireframe/Desktop-Gallery.png">Gallery page</a></li>
+    <li><a href="documentation/wireframe/Desktop-Contact-Us-Page.png">Contact Us Page</a></li>
 </ul>
 
 
 Tablet:
 <ul>
-    <li>Link to Home page</li>
-    <li>Link to gym page</li>
-    <li>Link to pool page</li>
-    <li>Link to fitness classes page</li>
-    <li>Link to gallery page</li>
-    <li>Link to Contact us page</li>
+    <li><a href="documentation/wireframe/Tablet-Home-Page.png">Home Page</a></li>
+    <li><a href="documentation/wireframe/Tablet-Gym-Facilities.png">Gym Page</a></li>
+    <li><a href="documentation/wireframe/Tablet-Pool-Facilities.png">Pool Page</a></li>
+    <li><a href="documentation/wireframe/Tablet-fitness-classes.png">Fitness Classes Page</a></li>
+    <li><a href="documentation/wireframe/Tablet-Gallery-Page.png">Gallery Page</a></li>
+    <li><a href="documentation/wireframe/Tablet-Contact-Us.png">Contact Us Page</a></li>
 </ul>
 
 
 Mobile:
 <ul>
-    <li>Link to Home page</li>
-    <li>Link to gym page</li>
-    <li>Link to pool page</li>
-    <li>Link to fitness classes page</li>
-    <li>Link to gallery page</li>
-    <li>Link to Contact us page</li>
+    <li><a href="documentation/wireframe/Phone-Home-Page.png">Home Page</a></li>
+    <li><a href="documentation/wireframe/Phone-Gym-Facilities.png">Gym Page</a></li>
+    <li><a href="documentation/wireframe/Phone-Pool-Facilities.png">Pool Page</a></li>
+    <li><a href="documentation/wireframe/Phone-Fitness-Classes.png">Fitness Classes Page</a></li>
+    <li><a href="documentation/wireframe/Phone-Gallery.png">Gallery Page</a></li>
+    <li><a href="documentation/wireframe/Phone-Contact-Us.png">HoContact Us Page</a></li>
 </ul>
 
 
