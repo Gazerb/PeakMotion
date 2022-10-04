@@ -248,6 +248,17 @@ The below languages were used in this project:
     <li>Figma. Used to create websites wireframes</li>
 </ul>
 
+## Performance Testing
+### Lighthouse testing
+I used the chrome extension 'Lighthouse' to test the performance of the website. Below is the capture of my first report which came back with a performance of 72 and to re size the images would improve performance which was what i then went on to do.
+
+<img src="documentation/readme-images/first-lighthouse-report.png" height="auto" width="100%" alt="First Lighthouse Report." />
+
+After changing the images the new light house report showed an increase to 78.
+
+
+### W3C HTML Validator
+
 
 ## Gitpod Reminders
 
