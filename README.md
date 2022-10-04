@@ -108,7 +108,7 @@ A footer is also included which contains the opening hours, address, contact num
 
 Desktop:
 <ul>
-    <li>Link to Home page</li>
+    <li><a href="documentation/wireframe/Desktop-Home-Page.png">Home</a></li>
     <li>Link to gym page</li>
     <li>Link to pool page</li>
     <li>Link to fitness classes page</li>
