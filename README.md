@@ -159,7 +159,7 @@ The colour scheme was chosen to be simple, clean, bright and visually appealing.
 Icons were used alongside teat to help the user understand sections of the website at a glance. I have taken the icons used in this project from Font Awesome (https://fontawesome.com/).
 
 #### Typography
-
+After some research, I found that the 4th most common font used on gym and sports websites is Monserrat. I decided to go with the 4th most used as i wanted this website to be similar but also slightly different, This font was used for the logo and navigation bar. Google fonts recommended Roberto as a secondary font so this was used for the body of the website.
 
 
 ## Gitpod Reminders
