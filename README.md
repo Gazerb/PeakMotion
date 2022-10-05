@@ -163,7 +163,7 @@ After some research, I found that the 4th most common font used on gym and sport
 
 
 ## Development
-During a mentor session it was advised to me that when in tablet mode I should have a drop down hamberger menu similar to when in mobile mode. This will help the website with responsiveness and look more professional. 
+During a mentor session it was advised to me that when in tablet mode I should have a drop down hamburger menu similar to when in mobile mode. This will help the website with responsiveness and look more professional. 
 
 I was also advised during the same session to change the layout to only show two images per row. This would mean the the responsiveness of the website would be better and the images would not appear stretched or pixelated.
 
@@ -228,13 +228,13 @@ The below languages were used in this project:
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript - Imported from Bootstrap and used for the hamberger menu</li>
+    <li>JavaScript - Imported from Bootstrap and used for the hamburger menu</li>
 </ul>
 
 ## websites used
 <ul>
     <li>Am I Responsive (http://ami.responsivedesign.is/). This was used to create the mock up image at the top of this readme document</li>
-    <li>Bootstrap (https://getbootstrap.com/). Used for website layout, responsiveness and hamberger menu</li>
+    <li>Bootstrap (https://getbootstrap.com/). Used for website layout, responsiveness and hamburger menu</li>
     <li>Code Institute (https://codeinstitute.net/). Modules and walk-through projects have been used and copied in this project</li>
     <li>Coolors (https://coolors.co/7ae9f0-04c6d3-fafafa-0420d4-000000). Used to create website colour scheme and palette</li>
     <li>Font Awesome (https://fontawesome.com/). Used for icons within website</li>
@@ -324,6 +324,9 @@ A returning user needed the below information from the website:
     <li>Contact the sports center and make an equiry</li>
 </ul>
 
+<img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
+<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Website footer" />
+
 Again the opeing times and contact details can be found in the footer of every page for this project and the buisness can be contacted via the contact form on the contact us page.
 
 #### Former User
@@ -336,6 +339,13 @@ A former user needed to find the below information from the website:
 
 These have been met with the opening times and contact information being in the footer. A contact form on the contact us page and each facility having its own page and being listed on the home page.
 
+<img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
+<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
+<img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
+<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
+<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+
 
 #### Buisness Ower
 The buisness ower needed the following to be met:
@@ -347,6 +357,13 @@ The buisness ower needed the following to be met:
 </ul>
 
 I believe that all these have been met. Each facilities has its own page with images and information detailing and showing how state of the art they are. Visitors to the site can contact the buisness via the contact form on the contact us page or from the contact information within the footer. It also has the social links within the footer advertising that the buisness also has social media pages.
+
+<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
+<img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
+<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
+<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+<img src="documentation/readme-images/socials.PNG" height="auto" width="100%" alt="Social Links" />
 
 
 ## Bugs
@@ -375,9 +392,53 @@ To find the website once it has been deployed you need to:
 
 
 ## Credits
+The following was used from Boostrap and configured to suit this project:
+<ul>
+    <li>Navigation bar</li>
+    <li>Hamburger menu</li>
+    <li>Layout of the site</li>
+</ul>
 
-## Gitpod Reminders
+## Media Used in this Project
+### Home page
+<ul>
+    <li>https://www.pexels.com/photo/an-on-treadmill-1954524/ - home page gym Photo</li>
+    <li>https://www.pexels.com/photo/grayscale-photo-of-man-standing-beside-barbell-3112004/ - Hero Image</li>
+    <li>https://www.pexels.com/photo/swimming-pool-with-lane-markers-in-blue-water-6110593/ - home page swimming pool photo</li>
+    <li>https://www.pexels.com/photo/woman-in-blue-sports-bra-and-white-leggings-doing-yoga-3822166/ - home page fitness class photo</li>
+</ul>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Gym Page
+<ul>
+    <li>https://www.pexels.com/photo/man-lying-while-doing-barbell-2204196/</li>
+    <li>https://www.pexels.com/photo/weights-at-a-gym-4162485/</li>
+    <li>https://www.pexels.com/photo/silver-dumbbells-on-black-steel-rack-4164766/</li>
+</ul>
 
-`python3 -m http.server`
+### Pool Page
+<ul>
+    <li>https://www.pexels.com/photo/people-doing-swim-race-1263349/ </li>
+    <li>https://www.pexels.com/photo/relaxation-water-sport-wet-2062708/</li>
+    <li>https://www.pexels.com/photo/athlete-exercise-fitness-leisure-261185/ </li>
+</ul>
+
+### Fitness classes page
+<ul>
+    <li>https://www.pexels.com/photo/group-of-women-doing-exercise-inside-the-building-3775566/</li>
+    <li>https://www.pexels.com/photo/women-in-sports-bras-and-leggings-doing-yoga-3822356/</li>
+    <li>https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/ </li>
+</ul>
+
+### Gallery
+<ul>
+    <li>https://www.pexels.com/photo/man-lying-while-doing-barbell-2204196/</li>
+    <li>https://www.pexels.com/photo/weights-at-a-gym-4162485/</li>
+    <li>https://www.pexels.com/photo/silver-dumbbells-on-black-steel-rack-4164766/</li>
+    <li>https://www.pexels.com/photo/people-doing-swim-race-1263349/ </li>
+    <li>https://www.pexels.com/photo/relaxation-water-sport-wet-2062708/</li>
+    <li>https://www.pexels.com/photo/athlete-exercise-fitness-leisure-261185/ </li>
+    <li>https://www.pexels.com/photo/group-of-women-doing-exercise-inside-the-building-3775566/</li>
+    <li>https://www.pexels.com/photo/women-in-sports-bras-and-leggings-doing-yoga-3822356/</li>
+    <li>https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/ </li>
+    <li>https://www.pexels.com/video/fitness-trainer-in-a-class-6326953/ - Fitness class video</li>
+</ul>
