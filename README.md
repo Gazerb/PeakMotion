@@ -37,7 +37,7 @@ If i decide to use the sports center i need to:
     <li>Be able to find out the costs of each facilities</li>
 </ul>
 
-Returning user:
+#### Returning users
 
 Current user:
 <ul>
