@@ -316,6 +316,13 @@ So for a new user of the sports center they needed to be able to find out the be
 
 Both the location and opening times can be found at the footer at the bottom of every page in the website. Our facilities available are listed on the home page and each have their own individual page where you can also see the costs of using that facility and you can contact the gym via our contact us page.
 
+<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
+<img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
+<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
+<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+<img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
+
 
 #### Returning User
 A returning user needed the below information from the website:
@@ -324,8 +331,8 @@ A returning user needed the below information from the website:
     <li>Contact the sports center and make an equiry</li>
 </ul>
 
-<img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
-<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Website footer" />
+<img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website Footer" />
+<img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
 
 Again the opeing times and contact details can be found in the footer of every page for this project and the buisness can be contacted via the contact form on the contact us page.
 
@@ -342,9 +349,9 @@ These have been met with the opening times and contact information being in the 
 <img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
 <img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
 <img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
-<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/gym-page.png" height="auto" width="100%" alt="Gym Page" />
 <img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
-<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+<img src="documentation/readme-images/pool-page.png" height="auto" width="100%" alt="Pool Page" />
 
 
 #### Buisness Ower
