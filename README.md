@@ -258,7 +258,7 @@ After changing the images the new light house report showed an increase to 78.
 
 
 ### W3C HTML Validator
-From first running the HTML validator it came up with errors of div elements not being closed. closing <a> that wasn't required.
+From first running the HTML validator it came up with errors of div elements not being closed. Getting rid of closing tags with links in them that wasn't required.
 
 The required changes have been made and there are now no HTML validator errors accross the website.
 
@@ -351,6 +351,30 @@ I believe that all these have been met. Each facilities has its own page with im
 
 ## Bugs
 The only but I gound with this project was related to the hamberger menu. It would close imediately after opening it. I found the answer here (https://stackoverflow.com/questions/36110757/navbar-toggle-button-opens-then-immediately-closes#comment89727513_51377904). Turns out I needed to add thhe relevent bootstrap script to help make things work correctly.
+
+
+## Deployment
+This website is currently deployed using Github Pages - https://pages.github.com/
+
+To deploy this project to GitHub Pages I did the following:
+<ol>
+    <li>I logged onto the Github website and selected the PeakMotion repository from the list</li>
+    <li>When in the repository, I then went to settings from the navigation bar</li>
+    <li>Once in settings page, I selected pages from the left side menu</li>
+    <li>This loaded Github pages. I scrolled to the build and deployment section. Under source, I changed the drop down menu to deploy from branch. Under Branch, I changed the two drop down menus to main and root folder</li>
+    <li>I then clicked save and github started uploading the project to github oages and displayed the URL for the website at the top of Github pages in settings once completed</li>
+</ol>
+
+To find the website once it has been deployed you need to:
+<ol>
+    <li>Go to the settings of the repository</li>
+    <li>Go to pages from the left menu</li>
+    <li>The URL for the website will be listed at the top of this page</li>
+    <li>To open the website just click the URL</li>
+</ol>
+
+
+## Credits
 
 ## Gitpod Reminders
 
