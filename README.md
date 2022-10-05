@@ -318,9 +318,9 @@ Both the location and opening times can be found at the footer at the bottom of 
 
 <img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
 <img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
-<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/gym-page.png" height="auto" width="100%" alt="Gym Page" />
 <img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
-<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+<img src="documentation/readme-images/pool-page.png" height="auto" width="100%" alt="Pool Page" />
 <img src="documentation/readme-images/footer.PNG" height="auto" width="100%" alt="Website footer" />
 
 
@@ -367,9 +367,9 @@ I believe that all these have been met. Each facilities has its own page with im
 
 <img src="documentation/readme-images/contact-form.PNG" height="auto" width="100%" alt="Contact form" />
 <img src="documentation/readme-images/gym-pool-fit.PNG" height="auto" width="100%" alt="Facility pages on nav bar" />
-<img src="documentation/readme-images/gym-page.PNG" height="auto" width="100%" alt="Gym Page" />
+<img src="documentation/readme-images/gym-page.png" height="auto" width="100%" alt="Gym Page" />
 <img src="documentation/readme-images/fitness-page.png" height="auto" width="100%" alt="Fitness classes page" />
-<img src="documentation/readme-images/pool-page.PNG" height="auto" width="100%" alt="Pool Page" />
+<img src="documentation/readme-images/pool-page.png" height="auto" width="100%" alt="Pool Page" />
 <img src="documentation/readme-images/socials.PNG" height="auto" width="100%" alt="Social Links" />
 
 
